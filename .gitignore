@@ -94,13 +94,6 @@ logs/
 *.swo
 *~
 
-# Output files (uncomment if you don't want to track generated outputs)
-# *.png
-# *.jpg
-# *.pdf
-# outputs/
-# results/
-
 # Coverage reports
 htmlcov/
 .tox/
